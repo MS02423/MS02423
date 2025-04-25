@@ -5,6 +5,7 @@
 第一步:一定一定要配置fofa的api,不然的话，工具是打不开的，如下图
 
 ![QQ_1745563130491](https://github.com/user-attachments/assets/9e119986-c75a-44dc-be52-34baab7d25b2)
+
 如何获取fofa的api
 
 1.打开fofa网站:https://fofa.info/
@@ -34,7 +35,7 @@ key
 
 第三步:通过ip查询域名
 
-我们在输入框输入我们要重新的ip地址，然后点击开始查询即可，查询结果也可以导出csv,方便我们查看
+我们在输入框输入我们要查询的ip地址，然后点击开始查询即可，查询结果也可以导出csv,方便我们查看
 
 下面以1.1.1.1为例
 
@@ -42,7 +43,7 @@ key
 
 ![QQ_1745563716510](https://github.com/user-attachments/assets/7327c5c8-c4d6-4a2d-a6ff-8b2cac2a6f2c)
 
-当工具查询完成之后，会在输出框提示我们重新完成，我们可以在输出框查看结果，也可以导出csv查看
+当工具查询完成之后，会在输出框提示我们查询完成，我们可以在输出框查看结果，也可以导出csv查看
 
 ![QQ_1745563811308](https://github.com/user-attachments/assets/104025ec-fc67-4a5f-a709-a4beb9619685)
 
